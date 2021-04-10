@@ -1,10 +1,18 @@
 # WeatherDashboard
  Server-Side APIs Challenge: Weather Dashboard
 
+## Purpose
 We Are Making a Weather Dashboard.
 
-ScreenShot of the Code:
+## Built With
+* HTML
+* CSS
+* JS
+* API
 
-Codes Used: .css .html .js .API
+## Website
 
-©2020 by WeatherDashboard
+## Contribution
+Made with ❤️ by Samantha Arellano
+
+### ©2020 by WeatherDashboard
