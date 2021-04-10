@@ -3,6 +3,6 @@
 
 We Are Making a Weather Dashboard.
 
-Codes Used: .css .html .js
+Codes Used: .css .html .js .API
 
 ©2020 by WeatherDashboard
