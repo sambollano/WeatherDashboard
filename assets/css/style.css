@@ -139,13 +139,6 @@ p {
   font-size: 30px;
 }
 
-.card-header {
-  color: var(--primary);
-  background-color: var(--dark);
-  padding: 2.5%;
-  border-radius: calc(0.18rem - 1px) calc(0.18rem - 1px) 0 0;
-}
-
 .card-body {
   padding: 2.5%;
 }
