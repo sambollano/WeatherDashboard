@@ -1,3 +1,6 @@
+var getUserRepos = function() {
+    fetch("http://api.openweathermap.org/data/2.5/forecast?id=524901&appid=9e398d752f41483a9829912733925aab");
+  };
 {
     "cod": "200",
     "message": 0,
