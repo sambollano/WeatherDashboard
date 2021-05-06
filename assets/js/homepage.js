@@ -12,4 +12,3 @@ var getUserRepos = function(user) {
     });
   });
 };
-  
