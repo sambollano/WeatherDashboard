@@ -15,4 +15,4 @@ We Are Making a Weather Dashboard.
 ## Contribution
 Made with ❤️ by Samantha Arellano
 
-### ©2020 by WeatherDashboard
+### ©2020 by WeatherDashboard 

@@ -37,6 +37,7 @@
     clear: both;
   }
 
+
 .grid-container {
   display: grid;
   grid-template-areas:
